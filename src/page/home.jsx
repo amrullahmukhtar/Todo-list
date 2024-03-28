@@ -110,7 +110,7 @@ function Home() {
             className="mt-1 block w-full px-3 py-2 bg-white border border-slate-300 rounded-md text-sm shadow-sm placeholder-slate-400
                   focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500"
           />
-          <div className=" text-white bg-zinc-600 w-[100PX] rounded-lg text-center mt-2 font-bold  ">
+          <div className="add text-white bg-zinc-600 w-[100PX] rounded-lg text-center mt-2 font-bold py-3 ">
             <a href="">ADD TASK</a>
           </div>
         </div>
