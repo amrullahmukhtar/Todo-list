@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  background-color: whitesmoke;
+}
 .material-symbols-outlined {
   color: red;
 }
@@ -9,6 +12,6 @@ a {
   text-decoration: none;
 }
 .add:hover {
-  background: whitesmoke;
-  color: black;
+  background: rgb(109, 158, 36);
+  color: white;
 }
